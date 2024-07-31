@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @hillarycynthia
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### bem vindos ao perfil da hillarycynthia
 
-<!---
-hillarycynthia/hillarycynthia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+meu nome é hillary 
+
+estou estudndo na alura
+sou estudante do 1C
+utilizo esse espaço para minha organizaçao e compartilhamento dos meu projentos desenvolvimento
+
+### voce entrar em contato comigo📫
+
+
+0001108529355sp@al.educacao.sp.gov
+@_cynthia08_
+
+![](![image](https://github.com/user-attachments/assets/6ac10189-a19a-45c6-a9cb-ad27dbf9322d)
